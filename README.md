@@ -1,4 +1,4 @@
 # logo.dialogstream.com
 
 
-![dialogstream](dialogstream.svg)
+![dialogstream](dialogstream-continuous-rotation.svg)
