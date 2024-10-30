@@ -1,2 +1,4 @@
-# logo
-logo.dialogstream.com
+# logo.dialogstream.com
+
+
+![dialogstream](dialogstream.svg)
