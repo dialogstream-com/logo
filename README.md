@@ -127,8 +127,3 @@ Kluczowe elementy:
    - Równe długości fal
    - Symetryczny układ
 
-Chcesz, żebym:
-1. Dostosował kąt obrotu?
-2. Zmienił proporcje fal?
-3. Zmodyfikował rozmiar całości?
-4. Zmienił kolory lub transparentność?
