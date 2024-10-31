@@ -127,3 +127,29 @@ Kluczowe elementy:
    - Równe długości fal
    - Symetryczny układ
 
+
+
+## pulse
+
+![pulse](dialogstream-pulse.svg)
+
+Główne zmiany w tekście:
+
+1. **Jasne tło**:
+   - "Dialog": Jaśniejszy niebieski (#2B5BA9)
+   - "Stream": Żywy niebieski (#0095FF)
+
+2. **Ciemne tło**:
+   - "Dialog": Jasny niebieski (#82A6FF)
+   - "Stream": Intensywny niebieski (#00BFFF)
+
+3. **Szare tło**:
+   - "Dialog": Średni niebieski (#6B9BFF)
+   - "Stream": Jasny niebieski (#00A8FF)
+
+Zalety nowej kolorystyki:
+- Lepszy kontrast
+- Zachowana harmonia
+- Lepsza czytelność
+- Spójność z falami
+
