@@ -99,3 +99,36 @@ import { DialogStreamLogo } from '@dialogstream/ui';
   adaptiveColors={true}
 />
 ```
+
+
+## Static
+
+![static](dialogstream-static.svg)
+
+Kluczowe elementy:
+
+1. **Obrócona Struktura**:
+   - Całość obrócona o -45 stopni
+   - Zachowane ortogonalne przecięcie fal
+   - Dynamiczna kompozycja
+
+2. **Fale**:
+   - Para pozioma (teraz po skosie)
+   - Para pionowa (teraz po skosie)
+   - Precyzyjne przecięcie w centrum
+
+3. **Punkt Centralny**:
+   - Czerwona kropka w punkcie przecięcia
+   - Delikatna poświata
+   - Niezmieniony przez obrót
+
+4. **Proporcje**:
+   - Zbalansowane amplitudy
+   - Równe długości fal
+   - Symetryczny układ
+
+Chcesz, żebym:
+1. Dostosował kąt obrotu?
+2. Zmienił proporcje fal?
+3. Zmodyfikował rozmiar całości?
+4. Zmienił kolory lub transparentność?
